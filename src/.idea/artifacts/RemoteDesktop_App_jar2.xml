@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RemoteDesktop App:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteDesktop_App_jar2</output-path>
+    <root id="archive" name="RemoteDesktop App.jar">
+      <element id="module-output" name="RemoteDesktop App" />
+    </root>
+  </artifact>
+</component>
